@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.sqlite3
+*.zip
+node_modules/
+.vscode/
+.DS_Store
