@@ -1,7 +1,21 @@
+# Python
 __pycache__/
 *.pyc
+
+# Database
 *.sqlite3
+
+# Archives
 *.zip
+
+# Node.js
 node_modules/
+
+# VS Code
 .vscode/
+
+# macOS
 .DS_Store
+
+# Environment variables
+.env
